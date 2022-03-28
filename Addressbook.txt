@@ -1,0 +1,7 @@
+First Name - Pratik 
+Last Name - chitruk
+Email - pratik.chitruk@gmail.com
+phoneNo - 8208508814
+city - kolhapur
+state - maharashtra
+country - india
